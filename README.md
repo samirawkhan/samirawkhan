@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Samira Khan
+### 👋 Hi, I’m Samira
 
 <a href="https://pronouns.vercel.app" title="Add pronouns to your own profile">
   <img src="https://pronouns.vercel.app/she/her?gradient=rose%20water" width="256" height="64" alt="My pronouns are she/her">
