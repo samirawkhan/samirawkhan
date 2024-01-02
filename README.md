@@ -8,12 +8,6 @@
 
 - 💻 Proficient in programming languages such as **R, Python, MATLAB**.
   
-- 📊 Aspiring Data Scientist passionate about applying computational methods and data analysis techniques to solve complex problems in physics and engineering.
-
-- 📝 I have contributed to publications like "Graph Theory Analysis and Characterization of Proton Conduction Pathways in Scandium-doped Barium Zirconate" in the **Journal of Chemical Physics**.
-
-- 👩‍🏫 Experience as a Teaching Assistant and Grader in Physics at both Mount Holyoke College and Northwestern University, where I've enhanced student academic performance through individualized tutoring and comprehensive review sessions.
-
 - 🌟 Volunteering as a mentor for the Women+ of Color Project and Graduate Student Peer Mentor, I'm dedicated to empowering BIPOC women+ within academia and guiding students through their academic and research journeys.
 
 - 📧 Reach me at [samirakhan2028@u.northwestern.edu](mailto:samirakhan2028@u.northwestern.edu) 
