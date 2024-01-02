@@ -16,7 +16,7 @@
 
 - 🌟 Volunteering as a mentor for the Women+ of Color Project and Graduate Student Peer Mentor, I'm dedicated to empowering BIPOC women+ within academia and guiding students through their academic and research journeys.
 
-- 📧 Reach me at [samirakhan2028@u.northwestern.edu](mailto:samirakhan2028@u.northwestern.edu) or call me at (+1) 929-666-3622.
+- 📧 Reach me at [samirakhan2028@u.northwestern.edu](mailto:samirakhan2028@u.northwestern.edu) 
 
 <!---
 samirawkhan/samirawkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
